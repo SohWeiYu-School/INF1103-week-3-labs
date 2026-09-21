@@ -1,0 +1,23 @@
+commit fe29693a2e49a96e75d1ea0fdad9ec950e436137
+Author: SohWeiYu-School <2603216@sit.singaporetech.edu.sg>
+Date:   Mon Sep 21 13:53:26 2026 +0800
+
+    updated dockerfile
+
+commit e59215f0c86d118b186c28aef42900099d37cf76
+Author: SohWeiYu-School <2603216@sit.singaporetech.edu.sg>
+Date:   Mon Sep 21 13:50:06 2026 +0800
+
+    change major features to use functions
+
+commit c10e4bad0a374bac8e470de7bf0c95de924dd1fc
+Author: SohWeiYu-School <2603216@sit.singaporetech.edu.sg>
+Date:   Fri Sep 18 13:22:03 2026 +0800
+
+    wip: convert some things into functions
+
+commit 4a90e47a94ae0db7a4193d9d021a678ab2ed40f7
+Author: Soh Wei Yu <marcusbusinessmanage@gmail.com>
+Date:   Fri Sep 18 12:32:23 2026 +0800
+
+    initial commit
